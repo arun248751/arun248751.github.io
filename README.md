@@ -1,7 +1,3 @@
-Sure! Here's the same content without any Markdown formatting — just plain text:
-
----
-
 Arunabha Gupta  
 Analytics & Data Solutions  
 Email: arunabha-1.gupta@outlook.com | Phone: +65 8873 2313  
