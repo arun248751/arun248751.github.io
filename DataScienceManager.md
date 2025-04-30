@@ -13,7 +13,7 @@ Visionary data science leader with **14+ years** of experience designing and dep
 ### **KEY ACHIEVEMENTS**  
 - **AI for Insurance**: Deployed ML pipelines that reduced acquisition cost by **35%** and enabled **$10M+ in risk coverage** for SEA clients.  
 - **Generative AI Innovation**: Built OpenAI-powered underwriting workflows, achieving **High STP** and automating complex health risk assessments.  
-- **Healthcare Transformation**: Reduced clinical trial screening failures by **high margins** and feasibility cycle time by **significantly** using ensemble ML.  
+- **Healthcare Transformation**: Reduced clinical trial screening failures by **high margins** and feasibility cycle time by **significant margins** using ensemble ML.  
 - **Sustainable Reporting**: Cut paper usage via intelligent report simplification for low-activity portfolios in banking – aligning with ESG goals.  
 
 ---
@@ -31,7 +31,7 @@ Visionary data science leader with **14+ years** of experience designing and dep
 
 - **Generative AI Underwriting Automation**  
   - *Action*: Led development of Azure OpenAI prompt chains to extract health risk insights from EMRs.  
-  - *Result*: Delivered **High Straight Through Processing**, reducing underwriting cycle time by **70%** and scaling to 10,000+ cases/month.  
+  - *Result*: Delivered **High Straight Through Processing**, reducing underwriting cycle time by **30%** and scaling to many fold cases/month.  
 
 - **Geospatial Catastrophe Modeling**  
   - *Action*: Engineered flood/wildfire risk scores using NASA/JBA and Azure Databricks; embedded into underwriting models.  
