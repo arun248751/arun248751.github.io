@@ -13,7 +13,7 @@ Data-driven analytics leader with **14+ years** of experience deploying AI/ML so
 ### **KEY ACHIEVEMENTS**  
 - **Insurance Innovation**: Reduced customer acquisition costs by **35%** and claims processing time by **18%** at Swiss Re through AI-driven motor/geo-risk models.  
 - **Clinical Trial Acceleration**: Cut patient screening failures by **57%** at Novartis using ML-powered EHR analytics, accelerating Phase 3 trial enrollment.  
-- **Cloud & AI Leadership**: Deployed Azure OpenAI models to automate underwriting workflows, enabling **90% Straight-Through Processing (STP)** for complex insurance cases.  
+- **Cloud & AI Leadership**: Deployed Azure OpenAI models to automate underwriting workflows, enabling **Efficient Straight-Through Processing (STP)** for complex insurance cases.  
 
 ---
 
@@ -21,19 +21,19 @@ Data-driven analytics leader with **14+ years** of experience deploying AI/ML so
 #### **Swiss Re Solutions** | **Assistant Vice President, Analytics Solutions Manager** | Jan 2023 – Present  
 **AI-Driven Insurance Analytics**  
 - **Customer Retention & Pricing**  
-  - *Situation*: Rising customer churn in APAC motor insurance portfolios.  
-  - *Action*: Led development of churn prediction models using longitudinal data and behavioral economics principles (A/B testing, personalized offers).  
-  - *Result*: **25% reduction in churn rates** and **35% lower acquisition costs** for Malaysian Takaful clients.  
+- *Situation*: Rising customer churn in APAC motor insurance portfolios.  
+- *Action*: Led development of churn prediction models using longitudinal data and behavioral economics principles (A/B testing, personalized offers).  
+- *Result*: **25% reduction in churn rates** and **35% lower acquisition costs** for Malaysian Takaful clients.  
 
 - **Generative AI for Underwriting Automation**  
-  - *Task*: Streamline manual underwriting processes for health insurance.  
-  - *Action*: Trained Azure OpenAI models with prompt engineering to classify EMR data and extract risk factors.  
-  - *Result*: Achieved **90% STP rate**, reducing manual reviews by **70%** and accelerating underwriting decisions.  
+- *Task*: Streamline manual underwriting processes for health insurance.  
+- *Action*: Trained Azure OpenAI models with prompt engineering to classify EMR data and extract risk factors.  
+- *Result*: Achieved **90% STP rate**, reducing manual reviews by **70%** and accelerating underwriting decisions.  
 
 - **Climate Risk Modeling**  
-  - *Situation*: Insurers lacked dynamic flood/wildfire risk tools in APAC.  
-  - *Action*: Built geospatial risk scores using NASA/JBA data and Azure Databricks, integrating building footprints and TIV metrics.  
-  - *Result*: Enabled **$10M+ in risk coverage** for SEA insurers and improved claims forecasting accuracy by **30%**.  
+- *Situation*: Insurers lacked dynamic flood/wildfire risk tools in APAC.  
+- *Action*: Built geospatial risk scores using NASA/JBA data and Azure Databricks, integrating building footprints and TIV metrics.  
+- *Result*: Enabled **$10M+ in risk coverage** for SEA insurers and improved claims forecasting accuracy by **30%**.  
 
 #### **Novartis** | **Senior Consultant, Analytics Solutions Manager** | Jul 2020 – Dec 2022  
 **ML-Powered Clinical Trials**  
@@ -48,9 +48,14 @@ Data-driven analytics leader with **14+ years** of experience deploying AI/ML so
 
 #### **Tata Consultancy Services** | **Advanced Analytics Senior Data Engineer** | Jul 2015 – Jul 2020  
 **Insurance Data Modernization**  
-- *Action*: Led migration of XL Catlin’s legacy systems to cloud-native ETL pipelines (Spark, Python).  
-- *Result*: Reduced reporting costs by **70%** (Celent 2019 Award) and enabled real-time risk analytics.  
+- *Action*: Led migration of XL Catlin’s legacy systems to cloud-native ETL pipelines (Spark, Python) as part of the official merger
+- *Result*: Achieved seamless integration of systems and processes of a loyds syndicate and a global
 
+**Intelligent Investment Reporting: Reducing Print Footprint Through ML Insights**  
+- *Situation*: The bank’s investment portfolio reports were uniformly detailed, leading to unnecessary paper usage and inefficiencies, especially for low-activity or low-capital portfolios.
+- *Task*: To redesign the reporting process using machine learning, so that report detail levels adapt based on portfolio significance — reducing paper use and improving clarity.
+- *Action*: Applied machine learning to identify key drivers of report complexity, developed a scoring model to assess portfolio relevance, and implemented a dynamic reporting logic that adjusted report detail accordingly.
+- *Result*: Reduced paper consumption by tailoring reports, enhanced operational efficiency, and aligned the reporting process with sustainability goals — without compromising essential insights.
 ---
 
 ### **TECHNICAL SKILLS**  
