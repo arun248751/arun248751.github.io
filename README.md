@@ -1,4 +1,4 @@
-Arunabha Gupta  
+![image](https://github.com/user-attachments/assets/415e90af-4ab8-4836-8a38-939c0d081052)**Arunabha Gupta ** 
 Analytics & Data Solutions  
 Email: arunabha-1.gupta@outlook.com | Phone: +65 8873 2313  
 LinkedIn: linkedin.com/in/arunabhagupta  
@@ -18,14 +18,30 @@ Professional Experience
 
 Swiss Re Solutions  
 Analytics Solutions Manager  
-Jan 2023 – Present | Singapore  
-- Led the development of customer retention optimization models using longitudinal data.  
-- Built a geo-risk prediction model integrating geospatial, accident, and vehicle data.  
+Jan 2023 – Present | Singapore 
+
+Casualty Motor
+- Led the development of customer retention optimization models using longitudinal data.
+- Designed value proposition for Malaysian Insurer to spearhead electric vehicles go-to-market strategy
+- Developed an online dashboard to enable Segmentation analysis to identify underperforming segments, with rate analysis and optimisation planning
+- Integrate results of predictive models in the dashboard to compare prediction against actuals.
+- Built a geo-risk prediction model integrating geospatial, accident, and vehicle data.
+- Published research paper for EMEA Casualty Underwriting teams with the theme "Identifying and evaluating new risk features with Electric Vehicles"
+- Developed a value proposition for a Costa Rican insurer to identify and address customer segments with deteriorating loss ratios following the adoption of Chinese electric vehicles.
+- Led the development of premium model as part of go-to-market strategy for a leading insurer focused on commercial fleet electrification across Continental Europe.
+
+Property
+- Client Retention Enablement: Collaborated with US Property UW teams to prevent premium leakage from clients considering exiting California due to wildfire exposure
+- Risk-Informed Selection: Equipped underwriters with tools to identify and prioritize insurable, premium-rich segments within high-risk zones.
+- Pricing Strategy Support: Helped clients pinpoint portfolio segments where wildfire risk justifies rate adjustments—especially where contributing factors are beyond control.
+- Enabled high-frequency, high-resolution monitoring of accumulation risk across geographies, enhancing capital efficiency and portfolio risk management
 - Designed risk assessment models for wildfire and flood perils using global data sources (JBA, RMS, NASA, Copernicus).  
 - Spearheaded Generative AI initiatives for underwriting automation.  
 - Delivered technical guidance and insights to stakeholders across global markets.  
 - Partnered with World Bank to develop parametric trigger datasets for developing markets.  
 - Developed sustainability analytics prototypes focused on carbon credits.  
+
+Technology
 - Built analytics workspace for globally distributed teams in partnership with Databricks.  
 - Led the data catalog initiative to optimize cross-utilization of key data assets.  
 - Streamlined model delivery through reusable frameworks across geographies.  
@@ -72,14 +88,9 @@ Certifications:
 Technical & Industry Contributions  
 - Workshops & Leadership: Conduct industry sessions on AI in Risk Analytics, Geospatial AI, and Big Data Solutions  
 - Publications: Authored whitepapers on AI-driven risk assessment in insurance and healthcare  
-- Community Engagement: Contributor at data science meetups, Databricks community, and AI conferences  
-
-Alignment with Databricks Role  
+- Community Engagement: Contributor at data science meetups, Databricks community, and AI conferences   
 - Extensive experience in big data analytics and cloud platforms (Databricks, Azure, Palantir Foundry, Apache Spark)  
 - Proven expertise in client engagement, technical solutioning, and business impact delivery  
 - Skilled in technical sales, solution architecture, and customer relationship management  
 - Active contributor to Microsoft AI for Good community and OpenStreetMap geospatial initiatives  
 
----
-
-Let me know if you'd like this converted into another format, such as Word or PDF!
