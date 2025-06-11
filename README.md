@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/415e90af-4ab8-4836-8a38-939c0d081052)**Arunabha Gupta ** 
+![image](https://github.com/user-attachments/assets/415e90af-4ab8-4836-8a38-939c0d081052)Arunabha Gupta
 Analytics & Data Solutions  
 Email: arunabha-1.gupta@outlook.com | Phone: +65 8873 2313  
 LinkedIn: linkedin.com/in/arunabhagupta  
